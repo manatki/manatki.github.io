@@ -1,0 +1,6 @@
+options:
+  - title: manatki
+    url: docs/index.html
+
+  - title: derevo
+    url: docs/derevo.html
